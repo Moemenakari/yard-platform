@@ -3,7 +3,7 @@
 Platform for **YARD (Youth Advocating for Rights & Development)** — a
 youth-led initiative of SHiFT Social Innovation Hub in Tripoli, Lebanon.
 
-🔗 **Live:** https://www.yardbplatform.com
+🔗 **Live:** https://yardplatform.org
 
 ## About
 
